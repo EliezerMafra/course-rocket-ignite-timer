@@ -48,3 +48,21 @@ Figma Layout: [CLICK HERE](https://www.figma.com/community/file/1127351821076435
    	```shell
 	npm run preview
 	```
+
+## 📸 Screenshots
+<p align='center'>Home Page</p>
+
+![image](https://user-images.githubusercontent.com/32603174/214938244-bd964368-2327-4673-89da-0e5ec4bdc012.png "Home page")
+
+<p align='center'>Running timer</p>
+
+![image](https://user-images.githubusercontent.com/32603174/214939299-34514346-75f5-476d-9fdb-95f365dd0db8.png)
+
+<p align='center'>History Page</p>
+
+![image](https://user-images.githubusercontent.com/32603174/214939419-567781b1-cda0-4417-b0da-7f7119d6036d.png)
+
+
+
+
+
