@@ -2,11 +2,23 @@
 
 ## 💻 Description
 
-The project was developed during Rocketseat Ignite Course and it is a simple front-end for a Timer website
+The project was developed during Rocketseat Ignite Course and it is a front-end for a Timer website
 
-## 📃 Technologies
+## 📃 Technologies/Dependencies
 
-- **ReactJS**
+- ReactJS with Typescript
+- Used Hooks
+  - useState
+  - useReducer
+  - useEffect
+- Context API
+- Styled-components
+- React Hook Form
+- Zod
+- Phosphor Icons
+- Date FNS
+- ESLint
+- Immer
 
 ## 📜 Layout
 
